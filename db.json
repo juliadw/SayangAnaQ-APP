@@ -1,0 +1,197 @@
+{
+  "users": [
+    {
+      "name": "julia dwiana",
+      "email": "email@gmail.com",
+      "password": "passwordd",
+      "id": 1
+    },
+    {
+      "name": "julie",
+      "email": "jule@gmai.com",
+      "password": "passworddd",
+      "id": 2
+    },
+    {
+      "name": "Ananahnu",
+      "email": "ananahnu@co.id",
+      "password": "siamangg",
+      "id": 3
+    },
+    {
+      "name": "Puso",
+      "email": "puso@gmail.com",
+      "password": "pusopuso",
+      "id": 4
+    },
+    {
+      "name": "namaku ",
+      "email": "namamuuu@nam.co.id",
+      "password": "paswordnya",
+      "id": 5
+    },
+    {
+      "name": "adibah",
+      "email": "adibah@gmail.com",
+      "password": "passwordd",
+      "id": 6
+    },
+    {
+      "name": "nama",
+      "email": "nbsasa",
+      "password": "ansmaasa",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "emana",
+      "password": "paswordd",
+      "id": 8
+    },
+    {
+      "name": "menam",
+      "email": "emailom",
+      "password": "bjahsgahsgjhags",
+      "id": 9
+    },
+    {
+      "name": "nama",
+      "email": "email@ya.com",
+      "password": "passwordd",
+      "id": 10
+    },
+    {
+      "name": "nama",
+      "email": "email@gmai.com",
+      "password": "passswordd",
+      "id": 11
+    },
+    {
+      "name": "masukkan ",
+      "email": "emal@sak.oc",
+      "password": "paswordddd",
+      "id": 12
+    },
+    {
+      "name": "massukkann",
+      "email": "emsasl@sak.oc",
+      "password": "paswossrdddd",
+      "id": 13
+    }
+  ],
+  "childData": [
+    {
+      "id": 1,
+      "name": "Rayyan Nur Hamizan",
+      "dob": "27-05-2019",
+      "gender": "Laki Laki"
+    },
+    {
+      "id": 2,
+      "name": "Adiba Yahya Mulsafa",
+      "dob": "11-09-2020",
+      "gender": "Laki Laki"
+    }
+  ],
+  "listIngredients": [
+    {
+      "id": 1,
+      "ingredient": "Anggur",
+      "calories": "1.2",
+      "carbo": "2.0",
+      "fat": "2.9",
+      "protein": "10.0"
+    },
+    {
+      "id": 2,
+      "ingredient": "Alpukat",
+      "calories": "160",
+      "carbo": "8.53",
+      "fat": "14.66",
+      "protein": "2"
+    },
+    {
+      "id": 3,
+      "ingredient": "Apel Merah",
+      "calories": "52",
+      "carbo": "13.81",
+      "fat": "0.17",
+      "protein": "0.26"
+    },
+    {
+      "id": 4,
+      "ingredient": "Durian",
+      "calories": "52",
+      "carbo": "13.81",
+      "fat": "0.17",
+      "protein": "0.26"
+    },
+    {
+      "id": 5,
+      "ingredient": "Pepaya",
+      "calories": "59",
+      "carbo": "15",
+      "fat": "0.41",
+      "protein": "1"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "menuTitle": "Sup telur puyuh",
+      "ingredients": "- 2 buah wortelll, potong tipis.\n- 2 buah kentang, potong dadu.\n- 6 batang buncis, porong panjang.\n- 3 lembar daun kol, potong-potong.\n- 1 batang daun bawang, rajang kasar.\n- 3 batang daun seledri, rajang kasar.\n- 1/4 ekor ayam, potong kecil-kecil.\n- 20 buah telur puyuh matang, kupas.\n- 1 buah tomat, potong-potong.\n- 2 liter air,\n- 6 buah bawang putih.\n- 1 sdm lada bulat.\n- 1 sdt garam.\n- 1 sdt kaldu bubuk",
+      "process": "(1). Masak air hingga mendidih, masukkan ayam, masak terus hingga ayam matang dan air menjadi kaldu\n(2) Masukkan wortel, kentang dan buncis, masak sebentar. Angkat panci dari api\n(3) Tumis, bumbu halus dengan sedikit minyak hingga harum. Tuangkan pada sop.\n(4) Taruh lagi panci diatas api, biarkan mendidih, masukkan kol, telur puyuh, daun bawang, seledri dan Tomat. Didihkan sekali lagi. Angkat"
+    },
+    {
+      "id": 2,
+      "menuTitle": "Apple stew dengan cinnamon",
+      "ingredients": "-  1 buah apel\n-  Air secukupnya\n-  Bubuk kayu manis secukupnya",
+      "process": "(1). Kukus irisan apel yang telah dikupas dan dipotong dadu.\n(2). Haluskan apel yang telah dikukus dengan blender atau food processor. Jika sudah halus, saringlah apel dengan alat penyaring berlubang kecil.\n(3). Setelah tersaring dengan halus, tambahkan sejumput bubuk kayu manis. Aduk rata dan sajikan"
+    }
+  ],
+  "article": [
+    {
+      "id": 1,
+      "title": "Tanda Tubuh Kekurangan Nutrisi",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+      "author": "Tuti Harningtiyas",
+      "date": "12 Mei 2020",
+      "uriImage": "https://miro.medium.com/max/700/1*TatfeANQMBmjrk_nhKbZoA.jpeg",
+      "desc": "Beragam Penyebab Anak Kurang Gizi\nSecara umum, kurang gizi pada anak disebabkan oleh tidak tercukupinya kebutuhan zat gizi harian. Kondisi tersebut bisa disebabkan oleh faktor-faktor berikut ini:\n\n1. Ketidaktahuan orang tua tentang giziKurangnya pengetahuan orang tua terhadap pola makan sehat dan gizi yang seimbang merupakan penyebab paling umum kurang gizi pada anak. Bila orang tua tidak mengetahui jenis dan jumlah nutrisi yang dibutuhkan anak, asupan nutrisi yang diberikan bisa tidak mencukupi kebutuhan anak sehingga ia menjadi kurang gizi.\n\n2. Tingkat sosial ekonomi yang rendahKondisi sosial ekonomi keluarga yang kurang baik juga bisa menjadi penyebab anak mengalami kekurangan gizi. Hal ini karena jika porsi dan jenis makanannya tidak memenuhi kebutuhan gizi dalam waktu yang lama, anak akan mengalami gizi kurang.Namun, hal ini bisa diakali dengan mengetahui sumber-sumber makanan yang bergizi lengkap yang mudah ditemui. Sumber makanan ini tidak perlu mahal, tetapi tetap terjaga kebersihannya.\n\n3. Kebersihan lingkungan yang burukLingkungan yang tidak bersih juga dapat menyebabkan anak mengalami kekurangan gizi, sebab lingkungan yang kotor bisa membuat anak terserang beragam penyakit. Hal ini dapat menyebabkan penyerapan gizi terhambat, meskipun asupan makanannya sudah baik.\n\n4. Menderita penyakit tertentuSelain karena makanan, anak kurang gizi bisa juga disebabkan oleh suatu penyakit atau kondisi medis, terutama penyakit saluran pencernaan yang membuat tubuh anak sulit mencerna atau menyerap makanan. Contohnya adalah penyakit celiac, penyakit Crohn, dan radang usus.\nGejala Awal Anak Kurang Gizi\n\nBeberapa gejala berikut bisa dialami oleh anak yang mengalami kurang gizi:\n-Berat badan dan tinggi badan anak berada di bawah kurva pertumbuhan\n-Kurang nafsu makan\n-Pertumbuhannya terlambat\n-Mudah merasa lelah dan terlihat lesu\n-Lebih rewel\n-Kurang perhatian terhadap lingkungan sekitar\n-Kulit dan rambut tampak kering\n-Rambut mudah rontok\n-Pipi dan mata terlihat cekung\nJaringan lemak dan otot berkurang\n-Mulut dan gusi mudah terluka\n-Rentan terkena infeksi karena menurunnya sistem kekebalan tubuh\n-Proses penyembuhan luka lambat\n\nSelain itu, perkembangan anak yang kurang gizi juga akan terganggu. Anak bahkan bisa mengalami kesulitan belajar ketika kebutuhan gizinya tidak terpenuhi.\nSegeralah periksakan ke dokter apabila anak Anda mengalami tanda-tanda awal kekurangan gizi. Dokter akan menghitung indeks massa tubuh anak dan melakukan pemeriksaan pendukung untuk mengetahui apakah anak kurang gizi atau tidak.\nSelain itu, penyakit jantung bawaan dan penyakit infeksi, seperti TB paru, juga bisa menyebabkan anak mengalami kurang gizi.\nJika hasilnya menunjukkan bahwa anak mengalami kekurangan gizi, dokter akan mencari tahu penyebabnya dan memberikan perawatan menyeluruh kepada anak, termasuk pengobatan dan pengaturan pola makan. Untuk menangani anak yang kurang gizi, dokter akan memberikan obat-obatan, suplemen, susu, serta menyarankan pola diet makan sehat untuk mencukupi kebutuhan nutrisi anak secara bertahap.",
+      "sumber": "https://www.alodokter.com/kenali-penyebab-anak-kurang-gizi-dan-gejala-awal-yang-timbul"
+    },
+    {
+      "id": 2,
+      "title": "Tanda Tubuh Kekurangan Gizi",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "author": "Ahmad Dahlan",
+      "date": "15 Juni 2020",
+      "uriImage": "https://miro.medium.com/max/700/1*TatfeANQMBmjrk_nhKbZoA.jpeg"
+    }
+  ],
+  "nutritionalNeeds": [
+    {
+      "id": 1,
+      "age": "6 -9",
+      "energi": "1400",
+      "protein": "25",
+      "lemak": "50",
+      "karbohidrat": "220",
+      "serat": "20",
+      "Air": "1450",
+      "vitA": "250",
+      "vitD": "15",
+      "vitE": "7",
+      "vitK": "20",
+      "vitB12": "1.5",
+      "vitC": "25",
+      "kalsium": "1000",
+      "fosfor": "500",
+      "Natrium": "900",
+      "kalium": "2700",
+      "besi": "10",
+      "Iodium": "120",
+      "Seng": "5"
+    }
+  ]
+}
